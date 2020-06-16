@@ -1,0 +1,26 @@
+#myLoginForm {
+	padding: 55px 0px;
+}
+
+#loader {
+	height: 256px;
+	width: 256px;
+	margin: 0 auto;
+	position: fixed;
+	z-index: 9999;
+	top: 150px;
+	right: 0;
+	left: 0;
+	display: none;
+}
+
+.btn-black{
+    background-color: #000 !important;
+    color: #fff;
+}
+
+.grecaptcha-badge {
+  width: 256px !important;
+  right: 0px !important;
+  bottom: 100px !important;
+}
