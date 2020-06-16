@@ -20,7 +20,5 @@
 }
 
 .grecaptcha-badge {
-  width: 256px !important;
-  right: 0px !important;
   bottom: 100px !important;
 }
